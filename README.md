@@ -12,6 +12,8 @@ El meu projecte Alex Ginabreda (https://git-scm.com/docs)
 
 ## Introduction
 
+![Project Logo] (images/logo.png)
+
 ## Features
 
 ## Installation
