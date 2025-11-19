@@ -1,22 +1,22 @@
 # Markdown and Git Homework.
 
-El meu projecte Alex Ginabreda (https://git-scm.com/docs)
+El meu projecte Alex Ginabreda [GIT DOCUMENTATION](https://git-scm.com/docs)
 
 ## Table of Contents.
 
-- [Introduction]
-- [Features]
-- [Installation]
-- [Usage]
-- [License]
+- [Introduction](#Introduction)
+- [Features](#Features)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [License](#License)
 
 ## Introduction
 
-![Project Logo] (images/logo.png)
+![Project Logo](images/logo.png)
 
 ## Features
 
-| Feature   |    Description               |    Status         |
+|**Feature**|  **Description**             |  **Status**       |
 |-----------|------------------------------|-------------------|
 | Feature 1 |    Description of Feature 1  |    In Peogress    |
 | Feature 2 |    Description of Feature 2  |    Completed      |
@@ -25,6 +25,6 @@ El meu projecte Alex Ginabreda (https://git-scm.com/docs)
 
 ## Installation
 
-## Installation
+## Usage
 
 ## License
