@@ -9,3 +9,13 @@ El meu projecte Alex Ginabreda (https://git-scm.com/docs)
 - [Installation]
 - [Usage]
 - [License]
+
+## Introduction
+
+## Features
+
+## Installation
+
+## Installation
+
+## License
