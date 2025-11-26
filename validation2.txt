@@ -1,0 +1,126 @@
+commit df92f1abb39ffd636efec36725a50e1a23222902
+Merge: 9d3fa76 c1ae966
+Author: AlexGinabreda-Ins <24414898f@iespoblenou.org>
+Date:   Wed Nov 26 08:25:19 2025 +0100
+
+    Merge pull request #2 from AlexGinabreda-Ins/feature/1-contribution-guidelines
+    
+    Add contribution guidelines
+
+commit c1ae96671284cf331afd433410dfea393cc9ec3a
+Author: Alex Ginabreda <24414898F@iespoblenou.org>
+Date:   Wed Nov 26 08:21:45 2025 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md. | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 9d3fa76740bb262ac24ade7da54ddab3b93746dd
+Author: Alex Ginabreda <24414898F@iespoblenou.org>
+Date:   Wed Nov 19 09:18:00 2025 +0100
+
+    Update Introduction of README.md
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit c0f590a066770eec368ce0f3a6b483301957feba
+Author: Alex Ginabreda <24414898F@iespoblenou.org>
+Date:   Wed Nov 19 09:16:17 2025 +0100
+
+    Add validation 1 file
+
+ validation1.txt | 90 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 90 insertions(+)
+
+commit b5eca371793fcb4b53799273570fc6e4b5478329
+Author: Alex Ginabreda <24414898F@iespoblenou.org>
+Date:   Wed Nov 19 09:09:42 2025 +0100
+
+    Add MIT License
+
+ LICENSE.md | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit a66dc6ca2885798548f582191aef5d18dc884eec
+Author: Alex Ginabreda <24414898F@iespoblenou.org>
+Date:   Wed Nov 19 09:05:00 2025 +0100
+
+    Enhance README with formatting
+
+ README.md | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+
+commit e4c76c8d15914e1d48d28db832d5e19067ee8690
+Author: Alex Ginabreda <24414898F@iespoblenou.org>
+Date:   Wed Nov 19 09:01:47 2025 +0100
+
+    Add feature list table to README
+
+ README.md | 18 +++++++++---------
+ 1 file changed, 9 insertions(+), 9 deletions(-)
+
+commit 6448862b9ac44efafca97efbeef28b2b3bc5bec1
+Author: Alex Ginabreda <24414898F@iespoblenou.org>
+Date:   Wed Nov 19 08:50:17 2025 +0100
+
+    Add feature list table to README
+
+ README.md | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+commit 41620e85dee62ce41b9458e6242c06e5150f0e53
+Author: Alex Ginabreda <24414898F@iespoblenou.org>
+Date:   Wed Nov 19 08:41:49 2025 +0100
+
+    Add project logo to README
+
+ README.md       |   2 ++
+ images/logo.png | Bin 0 -> 7869 bytes
+ 2 files changed, 2 insertions(+)
+
+commit eb55e73b9d86eed3b13b43bd858cb63c5ff319e1
+Author: Alex Ginabreda <24414898F@iespoblenou.org>
+Date:   Wed Nov 19 08:37:38 2025 +0100
+
+    Add sections to README
+
+ README.md | 12 +++++++++++-
+ 1 file changed, 11 insertions(+), 1 deletion(-)
+
+commit 8f63c7a3e6c33513fdadda0b147e1f53c8eab77c
+Author: Alex Ginabreda <24414898F@iespoblenou.org>
+Date:   Wed Nov 19 08:34:22 2025 +0100
+
+    Add hyperlinks to README
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit dde81dd4c549c1f44348fd3e775572ed2c659530
+Author: Alex Ginabreda <24414898F@iespoblenou.org>
+Date:   Wed Nov 19 08:32:16 2025 +0100
+
+    Add Table of Contents to README
+
+ README.md | 14 +++++++++++---
+ 1 file changed, 11 insertions(+), 3 deletions(-)
+
+commit f7c1e9329575bded2b0bf75ad53aa41a243e586e
+Author: Alex Ginabreda <24414898F@iespoblenou.org>
+Date:   Wed Nov 19 08:29:13 2025 +0100
+
+    Add README with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit f8786c89380765cfc8d36776bcd8150dccd24221
+Author: Alex Ginabreda <24414898F@iespoblenou.org>
+Date:   Wed Nov 19 08:24:18 2025 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
